@@ -1,0 +1,15 @@
+h1{
+    font-size: 200%;
+}
+ul.circulo{
+    list-style-type: circle;
+}
+ol.num{
+    list-style-type: decimal;
+}
+ol.rom{
+    list-style-type: upper-roman;
+}
+ol.abc{
+    list-style-type: lower-alpha;
+}
